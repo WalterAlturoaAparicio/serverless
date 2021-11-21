@@ -1,5 +1,12 @@
 # serverless
 
+Para ejecutar el servidor: 
+
 ```
-codigo
+npm install
 ```
+
+```
+sls offline start
+```
+
